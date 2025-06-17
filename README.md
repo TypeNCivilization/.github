@@ -1,1 +1,1 @@
--$\infty$ $\cdots$ ∅ $\cdots$ +$\infty$
+± $\infty$ $\cdots$ ∅ $\cdots$ ± $\infty$
